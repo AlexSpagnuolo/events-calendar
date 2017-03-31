@@ -6,3 +6,30 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.launch-event {
+  border: 1px solid #333;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+}
+
+.holiday {
+  color: #991919;
+  border: 1px solid #b92828;
+  border-radius: 8px;
+  background-color: #f2bcbc;
+}
+
+.record-event {
+  color: #51603f;
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+}
+
+.date-event {
+  color: #38448e;
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  background-color: #d2d6f0;
+}
